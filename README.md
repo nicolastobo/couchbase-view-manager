@@ -63,7 +63,7 @@ You have to follow some rules:
 
 | | map function | reduce function |
 |-----------|------------|----------|
-| naming | aggreg*.map.js* | aggreg*.reduce.js* |
+| naming | aggreg.map.js | aggreg.reduce.js |
 | required | yes | no |
 | syntax |  ```javascript function(doc, meta) {/*...*/}``` | ``` _count ``` *or* ```javascript function(key, values, rereduce) {/*...*/} ```
 
