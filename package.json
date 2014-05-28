@@ -1,0 +1,12 @@
+{
+  "name": "view-manager",
+  "version": "0.1.0",
+  "private": "true",
+  "dependencies": {
+    "couchbase": "x",
+    "optimist": "x",
+    "async": "x"
+   },
+   "devDependencies": {
+  }
+}
